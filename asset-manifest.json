@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Naruto/static/css/main.3f11256d.chunk.css",
-    "main.js": "/Naruto/static/js/main.cbf4e178.chunk.js",
-    "main.js.map": "/Naruto/static/js/main.cbf4e178.chunk.js.map",
+    "main.css": "/Naruto/static/css/main.af6b7432.chunk.css",
+    "main.js": "/Naruto/static/js/main.2d9ff315.chunk.js",
+    "main.js.map": "/Naruto/static/js/main.2d9ff315.chunk.js.map",
     "runtime-main.js": "/Naruto/static/js/runtime-main.ffef5a9d.js",
     "runtime-main.js.map": "/Naruto/static/js/runtime-main.ffef5a9d.js.map",
     "static/js/2.788f4e26.chunk.js": "/Naruto/static/js/2.788f4e26.chunk.js",
     "static/js/2.788f4e26.chunk.js.map": "/Naruto/static/js/2.788f4e26.chunk.js.map",
     "index.html": "/Naruto/index.html",
-    "precache-manifest.545ea87a36289f75adfd6b824ac8d5b3.js": "/Naruto/precache-manifest.545ea87a36289f75adfd6b824ac8d5b3.js",
+    "precache-manifest.f0380c99b428ae5e739079aefbffadff.js": "/Naruto/precache-manifest.f0380c99b428ae5e739079aefbffadff.js",
     "service-worker.js": "/Naruto/service-worker.js",
-    "static/css/main.3f11256d.chunk.css.map": "/Naruto/static/css/main.3f11256d.chunk.css.map",
+    "static/css/main.af6b7432.chunk.css.map": "/Naruto/static/css/main.af6b7432.chunk.css.map",
     "static/js/2.788f4e26.chunk.js.LICENSE.txt": "/Naruto/static/js/2.788f4e26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ffef5a9d.js",
     "static/js/2.788f4e26.chunk.js",
-    "static/css/main.3f11256d.chunk.css",
-    "static/js/main.cbf4e178.chunk.js"
+    "static/css/main.af6b7432.chunk.css",
+    "static/js/main.2d9ff315.chunk.js"
   ]
 }

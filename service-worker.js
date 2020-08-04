@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Naruto/precache-manifest.545ea87a36289f75adfd6b824ac8d5b3.js"
+  "/Naruto/precache-manifest.f0380c99b428ae5e739079aefbffadff.js"
 );
 
 self.addEventListener('message', (event) => {
