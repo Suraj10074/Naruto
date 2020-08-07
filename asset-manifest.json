@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Naruto/static/css/main.af6b7432.chunk.css",
-    "main.js": "/Naruto/static/js/main.2d9ff315.chunk.js",
-    "main.js.map": "/Naruto/static/js/main.2d9ff315.chunk.js.map",
-    "runtime-main.js": "/Naruto/static/js/runtime-main.ffef5a9d.js",
-    "runtime-main.js.map": "/Naruto/static/js/runtime-main.ffef5a9d.js.map",
-    "static/js/2.788f4e26.chunk.js": "/Naruto/static/js/2.788f4e26.chunk.js",
-    "static/js/2.788f4e26.chunk.js.map": "/Naruto/static/js/2.788f4e26.chunk.js.map",
-    "index.html": "/Naruto/index.html",
-    "precache-manifest.f0380c99b428ae5e739079aefbffadff.js": "/Naruto/precache-manifest.f0380c99b428ae5e739079aefbffadff.js",
-    "service-worker.js": "/Naruto/service-worker.js",
-    "static/css/main.af6b7432.chunk.css.map": "/Naruto/static/css/main.af6b7432.chunk.css.map",
-    "static/js/2.788f4e26.chunk.js.LICENSE.txt": "/Naruto/static/js/2.788f4e26.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.7d9c0fb7.chunk.css",
+    "main.js": "/static/js/main.3ef04e86.chunk.js",
+    "main.js.map": "/static/js/main.3ef04e86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98e2f019.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98e2f019.js.map",
+    "static/js/2.166968ae.chunk.js": "/static/js/2.166968ae.chunk.js",
+    "static/js/2.166968ae.chunk.js.map": "/static/js/2.166968ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2c98bcc1e250b06134ba849d7250358.js": "/precache-manifest.a2c98bcc1e250b06134ba849d7250358.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7d9c0fb7.chunk.css.map": "/static/css/main.7d9c0fb7.chunk.css.map",
+    "static/js/2.166968ae.chunk.js.LICENSE.txt": "/static/js/2.166968ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffef5a9d.js",
-    "static/js/2.788f4e26.chunk.js",
-    "static/css/main.af6b7432.chunk.css",
-    "static/js/main.2d9ff315.chunk.js"
+    "static/js/runtime-main.98e2f019.js",
+    "static/js/2.166968ae.chunk.js",
+    "static/css/main.7d9c0fb7.chunk.css",
+    "static/js/main.3ef04e86.chunk.js"
   ]
 }
